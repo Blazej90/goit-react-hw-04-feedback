@@ -1,9 +1,9 @@
-/* .button {
+.button {
   margin: 10px;
   width: 200px;
   padding: 20px;
   font-size: x-large;
-} */
+}
 
 .containerButtons {
   display: flex;
